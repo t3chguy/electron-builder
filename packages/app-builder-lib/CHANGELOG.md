@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 24.4.0
+
+### Minor Changes
+
+- [#7558](https://github.com/electron-userland/electron-builder/pull/7558) [`54c85374`](https://github.com/electron-userland/electron-builder/commit/54c85374790f7a8e0dc520a20c716b4afe69be20) Thanks [@t3chguy](https://github.com/t3chguy)! - Add ability to specify recommended deb dependencies
+
 ## 24.3.0
 
 ### Minor Changes
